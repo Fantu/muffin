@@ -6,6 +6,7 @@ Build-Depends:
  autoconf-archive,
  automake,
  debhelper (>= 9),
+ dh-acc,
  dh-autoreconf,
  gnome-doc-utils (>= 0.8),
  gnome-pkg-tools (>= 0.10),
